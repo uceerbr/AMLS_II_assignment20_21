@@ -7,8 +7,7 @@ requires access to the DQN model in the directory ./Trainings_500Ktraining/model
 
 I ran the program in an environment that had these libraries installed:
 
-#
-# Name                    Version                   Build  Channel
+
 absl-py                   0.9.0            py36h9f0ad1d_1    conda-forge/label/cf202003
 argon2-cffi               21.1.0           py36h68aa20f_0    conda-forge
 astor                     0.7.1                      py_0    conda-forge/label/cf202003
