@@ -1,5 +1,5 @@
 
-# AMLS II Assignment 20/21
+# AMLS II Assignment 20 / 21 [![Badge License]][License]
 *A research project for **AMLS II** |* `ELEC0135`
 
 <br>
@@ -35,6 +35,10 @@ My environment had the **[These Libraries]** installed.
 
 <!----------------------------------------------------------------------------->
 
+[Badge License]: https://img.shields.io/badge/License-Unknown-darkgray
+
 [Project Script]: Source/connect4_submission.ipynb
 [Alternate Version]: Source/connect4_PlayTheAgent.ipynb
 [These Libraries]: Libraries.yaml
+
+[License]: #
