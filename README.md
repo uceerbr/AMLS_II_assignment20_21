@@ -1,16 +1,40 @@
-# AMLS_II_assignment20_21
-Research project for AMLS II (ELEC0135)
+
+# AMLS II Assignment 20/21
+*A research project for **AMLS II** |* `ELEC0135`
+
+<br>
+
+The **[Project Script]** details the <br>
+parameters for training as well <br>
+as testing the agent against the <br>
+semi - random opponent.
+
+<br>
+
+Just for fun, I also included an <br>
+**[Alternate Version]** with which <br>
+the user can play either as the <br>
+agent or opponent.
+
+<br>
+
+## Requirements
+
+### Model
+
+Both scripts need access to the **DQN** model in the directory:
+
+`Source/Trainings_500Ktraining/models4/dqn_training_reducedLossPenalty`
+
+<br>
+
+### Libraries
+
+My environment had the **[These Libraries]** installed.
 
 
-The project script details the parameters for training the agent and for testing it against the semi-random opponent:
-https://github.com/uceerbr/AMLS_II_assignment20_21/blob/main/connect4_submission.ipynb
+<!----------------------------------------------------------------------------->
 
-Just for fun, I have included this code the user would like to play either the semi-random opponent or the trained agent:
-https://github.com/uceerbr/AMLS_II_assignment20_21/blob/main/connect4_PlayTheAgent.ipynb
-
-Either piece of code requires access to the DQN model in the directory ./Trainings_500Ktraining/models4/dqn_training_reducedLossPenalty
-
-
-I ran the program in an environment that had these libraries installed:
-
-Libraries.yaml
+[Project Script]: Source/connect4_submission.ipynb
+[Alternate Version]: Source/connect4_PlayTheAgent.ipynb
+[These Libraries]: Libraries.yaml
