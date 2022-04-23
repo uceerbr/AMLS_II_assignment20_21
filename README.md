@@ -2,7 +2,7 @@
 Research project for AMLS II (ELEC0135)
 
 
-Please note that an update to the code in this repository somehow changed the link that was in the footnote of my paper.  I have resubmitted a PDF of my paper with the updated link, but I have left the old Word document in the submission so you can see that it was submitted before the dealine and the only difference is the github link.  I hope that is ok.  Thanks for your consideration.
+Please note that an update to the code in this repository somehow changed the link that was in the footnote of my paper.  I have resubmitted a PDF of my paper with the updated link, but I have left the old Word document in the submission so you can see that it was submitted before the dealine and the only difference is the github link.  I hope that is ok.  Thank you for your consideration.
 
 
 The project script details the parameters for training the agent and for testing it against the semi-random opponent:
